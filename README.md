@@ -25,3 +25,7 @@ GitHub: https://github.com/cypress-io/cypress
 - No support for Safari browser
 - No support for native mobile testing
 - Difficult to understand the async execution without previous experience
+
+## Installation
+npm install
+npm test
