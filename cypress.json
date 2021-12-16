@@ -1,0 +1,15 @@
+{
+  "defaultCommandTimeout": 8000,
+  "pageLoadTimeout": 80000,
+  "reporter": "mochawesome",
+
+  "env": {
+    "url": "http://zero.webappsecurity.com/index.html"
+  },
+  "testFiles": "**/*.feature",
+  "chromeWebSecurity": false,
+  "projectId": "3rjtm5",
+  "retries": {
+    "runMode": 1
+  }
+}
